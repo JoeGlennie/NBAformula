@@ -1,9 +1,10 @@
 December 20, 2024- I was generating a healthy profit margin (20%) with the NFL. With so few opportunities to make money, I calculated that I would need to bet $2000 on every game to generate a full profit. Since they play NBA games almost every day for eight months a year, I would only need to bet $100 a game to potentially generate a full income. I noticed that the formula mentioned in the NFL Repositiory doesn't work nearly as well with NBA games, so I will use this space to determine what I need to change to turn a profit.
 
-For tonights games, the formula predicted the following scores:       
+For tonights games, the formula predicted the following scores versus the actual scores:       
 
-Cha    94.45          Mil   99.17          OKC    113.33
-Phi    116.2          Cle   111.8          Mia    112.2
+Cha    94.45     98       Mil   99.17   101     OKC    113.33
+Phi    116.2    108       Cle   111.8   124     Mia    112.2
+
 
 
 
