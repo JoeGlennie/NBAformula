@@ -166,4 +166,15 @@ Brooklyn Nets
 Orlando Magic
 48	24	24	.500	48.2	104.1	
 
-The PPG information is stored in the sixth column.
+The PPG information is stored in the sixth column. I also changed the denominator for the defensive ranking variable from 4 to 2.
+
+Predictions for January 30, 2025 with new formula:
+
+Min  114.35
+Uta  100.35
+
+Hou  111.05
+Mem  114.95
+
+Orl  104.25
+Por  97.25
