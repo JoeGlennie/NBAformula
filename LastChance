@@ -170,11 +170,11 @@ The PPG information is stored in the sixth column. I also changed the denominato
 
 Predictions for January 30, 2025 with new formula:
 
-Min  114.35
-Uta  100.35
+Min  114.35         138
+Uta  100.35         113
 
-Hou  111.05
-Mem  114.95
+Hou  111.05         119 
+Mem  114.95         120
 
-Orl  104.25
-Por  97.25
+Orl  104.25          90
+Por  97.25          119
