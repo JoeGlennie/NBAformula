@@ -181,3 +181,5 @@ Por  97.25          119
 
 
 February 1, 2025- It seems like the original formula works best, but I need to use the average PPG for every team instead of what the oddsmaker's predict. Even with the adjustment, NBA games are way too unpredictable to give me a chance to turn a profit. 
+
+February 12, 2025- For reasons I'll never completely understand, the day of the week makes a big difference when predicting baseball and hockey scores. For hockey, I add 0.1 goals to the underdog's score for Monday's and work my way up to 0.7 for Sunday's. I believe there's an average of around six goals a game in the NHL, and there are about 220 points scores in an NBA game. To start, I will add one point to the underdog's score for Monday's and work my way up to seven points on Sunday's. 
